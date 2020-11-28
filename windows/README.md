@@ -1,6 +1,6 @@
 
 
-# portforwarding to wsl
+# portforwarding to wsl template
 
 ```powershell
 $wsl_address="192.168.0.1"
