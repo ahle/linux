@@ -5,4 +5,5 @@ choco install unikey
 choco install foxitreader
 choco install xmind
 choco install notepadplusplus
+choco install wsl2
 ```
