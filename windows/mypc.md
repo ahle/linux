@@ -7,4 +7,5 @@ choco install xmind
 choco install notepadplusplus -y
 choco install wsl2
 choco install avastfreeantivirus
+choco install google-backup-and-sync -y
 ```
